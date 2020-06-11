@@ -157,4 +157,20 @@
     "state": "Manitoba",
     "country": "Canada"
   }
+  
+  {
+  "id": 1010,
+  "name": "Samuel Iwuchukwu",
+  "img": "https://drive.google.com/file/d/102pn0fgp1jEAEjsPnNHvQvQjY9HuDePK/view?usp=sharing",
+  "links": {
+    "website": "https://github.com/UncleSamTech",
+    "linkedin": "https://www.linkedin.com/in/samueltech/",
+    "github": "https://github.com/UncleSamTech"
+  },
+  "jobTitle": "Full Stack Android Developer",
+  "location": {
+    "city": "Lagos",
+    "state": "Lagos",
+    "country": "Nigeria"
+  }
 }
